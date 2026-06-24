@@ -4,7 +4,7 @@ AS
     IS
     BEGIN
        DBMS_OUTPUT.PUT_LINE('Hello');
-	   DBMS_OUTPUT.PUT_LINE('ERP Demo');
+	   DBMS_OUTPUT.PUT_LINE('ERP Demo Project');
     END;
 END XX_TEST_ERP_MIGRATION_PKG;
 /
